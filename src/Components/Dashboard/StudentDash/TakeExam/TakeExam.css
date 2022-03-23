@@ -1,0 +1,7 @@
+.student-take-exam-question {
+  border-bottom: 1px solid black;
+}
+
+.correct {
+  background-color: pink;
+}

@@ -1,0 +1,32 @@
+/* .viewScore-container {
+  /* background-color: pink; */
+/* } */
+
+.viewScore-test-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.viewScores-markslist-cont {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* overflow-y: scroll; */
+  /* border: 1px solid black; */
+}
+
+.viewScores-marks-cont {
+  width: 50%;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* .viewScore-marks {
+}
+
+.viewScore-email {
+} */
